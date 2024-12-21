@@ -1,0 +1,6 @@
+{
+  "actualFilePath": "actual.csv",
+  "expectedFilePath": "expected.csv",
+  "primaryKey": [ "time" ],
+  "author":  "Mohit Bisht"
+}
